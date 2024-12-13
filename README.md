@@ -61,7 +61,7 @@ graph TD;
 
 ## 🔗 Let's Connect
 
-- **LinkedIn:** [Mohammadreza Kalantari](https://www.linkedin.com/in/mohammadreza-kalantari)
+- **LinkedIn:** [Mohammadreza Kalantari](https://www.linkedin.com/in/mohammadreza-kalantari/)
 - **Email:** m.kalantari75@gmail.com
 
 ---

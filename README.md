@@ -24,9 +24,14 @@ Hi there! I'm **Mohammadreza Kalantari**, a passionate Front-End Developer and R
 - **Description:** A powerful multi-language dashboard tailored for global users with a responsive and scalable design.
 - **Live Demo:** [Multi-Language Dashboard](https://multi-language-dashboard.vercel.app/)
 - **Technologies:** React, TypeScript, Redux Toolkit, i18n, Material UI
+  
+### 5. [Multi-Language Dashboard](https://github.com/mkalantari96/Multi-Language-Dashboard)
+- **Description:** A powerful multi-language dashboard tailored for global users with a responsive and scalable design.
+- **Live Demo:** [Multi-Language Dashboard](https://multi-language-dashboard.vercel.app/)
+- **Technologies:** React, TypeScript, Redux Toolkit, i18n, Material UI
 
-### 5. [Greendataware-AI](https://github.com/mkalantari96/greendataware-ai)
-- **Description:** A platform designed for eco-conscious AI solutions. Includes dynamic event pages and a responsive, dark-themed design.
+### 6. [Weather Dashboard 🌦️](https://github.com/mkalantari96/weather-forecast)
+- **Description:** A modern, responsive weather application built with React.js that provides real-time weather data, forecasts, historical data, and weather alerts. Built with modern web technologies and a focus on user experience..
 
 ---
 
